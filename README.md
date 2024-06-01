@@ -12,7 +12,7 @@ Unfortunately, the species of penguin has not been recorded in the dataset. Howe
 
 ## Steps Included in the Notebook:
 
-### 1. Data Preprocessing
+### 1. Data Preprocessing:
 
 - **Handling Categorical Data:** Convert categorical values in the 'sex' column into dummy variables to include them in the analysis.
 - **Data Scaling:** Standardize the numerical features using StandardScaler to ensure that each feature contributes equally to the clustering process.
